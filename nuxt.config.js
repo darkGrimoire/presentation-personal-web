@@ -21,6 +21,9 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '@/assets/reset.css',
+    '@/node_modules/reveal.js/dist/reveal.css',
+    '@/node_modules/reveal.js/dist/theme/black.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
